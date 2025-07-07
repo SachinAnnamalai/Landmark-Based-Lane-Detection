@@ -83,8 +83,6 @@ You can view detection results on static images:
     <img src="Test_results/test_image2.png" height=500, width=800>
 </div>
 
-[Watch the test video](Test_results/test_video.mp4)
-
 ### Test Video
 
 A short demo video is provided of how cones are detected.  
