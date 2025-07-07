@@ -76,12 +76,14 @@ Sample test images and a test video are provided for demonstration and testing p
 You can view detection results on static images:
 
 <div align="center">
-    <img src="Test_images/test_image1.png" height=500, width=800>
+    <img src="Test_results/test_image1.png" height=500, width=800>
+</div>
+<br><br>
+<div align="center">
+    <img src="Test_results/test_image2.png" height=500, width=800>
 </div>
 
-<div align="center">
-    <img src="Test_images/test_image2.png" height=500, width=800>
-</div>
+[Watch the test video](Test_results/test_video.mp4)
 
 ### Test Video
 
